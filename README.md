@@ -43,4 +43,4 @@ The biggest challenge I came across was getting all the formulas to work correct
 
 - What are some other possible tables and/or graphs that we could create?
 
-  The possibilities are endless when it comes to the graphs and tables we can create. It all would depend on what our focus and goals are for the analysis. For example, we could do a pie chart based on the percentage of each outcome, a table showing the average donation for each parent category or a table/graph displaying the average time it takes for each subcategory.
+  The possibilities are endless when it comes to the graphs and tables we can create. It all would depend on what our focus and goals are for the analysis. For example, we could do a pie chart based on the percentage of each outcome, a table showing the average donation for each parent category or a table/graph displaying the average duration for each subcategory.
